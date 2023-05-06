@@ -114,3 +114,17 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <br />
+
+<h2>Configure Help Topics</h2>
+
+ - Admin Panel -> Manage -> Help Topics
+   - Business Critical Outage
+   -	Personal Computer Issues
+   -	Equipment Request
+   -	Password Reset
+
+<p>
+<img src="https://i.imgur.com/b92mKys.png" height="80%" width="80%"/>
+</p>
+
+<br />
