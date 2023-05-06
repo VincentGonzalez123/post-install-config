@@ -80,9 +80,24 @@ This tutorial outlines the post-install configuration of the open-source help de
 
  - Admin Panel -> Agents -> Add New
    - Jane
+     - ***Optional - Assign access, permissions and teams***
    - John
      - ***Optional - Assign access, permissions and teams***
 
+<p>
+<img src="https://i.imgur.com/70zxPrE.png" height="80%" width="80%"/>
+</p>
 
-https://i.imgur.com/70zxPrE.png
+<br />
 
+<h2>Configure Users (customers)</h2>
+
+ - Agent Panel -> Users -> Add New
+   - Karen
+   - Ken
+   
+<p>
+<img src="https://i.imgur.com/wmLmZB5.png" height="80%" width="80%"/>
+</p>
+
+<br />
