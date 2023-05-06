@@ -101,3 +101,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <br />
+
+<h2>Configure SLA</h2>
+ - Admin Panel -> Manage -> SLA
+   - Sev-A (1 hour, 24/7)
+   - Sev-B (4 hours, 24/7)
+   - Sev-C (8 hours, business hours)
+
+<p>
+<img src="https://i.imgur.com/cJkZ0Xz.png" height="80%" width="80%"/>
+</p>
+
+<br />
