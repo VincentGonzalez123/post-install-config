@@ -62,7 +62,27 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 <img src="https://i.imgur.com/5esbZce.png" height="80%" width="80%"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temhttps://i.imgur.com/6NhFvEn.pngpor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+
 <br />
+
+<h2>Allow anyone to create tickets</h2>
+
+ - Admin Panel -> Settings -> User Settings
+ - Registration Required: Require registration and login to create tickets 
+
+<p>
+<img src="https://i.imgur.com/w5VRbkp.png" height="80%" width="80%"/>
+</p>
+
+<br />
+
+<h2>Configure Agents (workers)</h2>
+
+ - Admin Panel -> Agents -> Add New
+   - Jane
+   - John
+     - ***Optional - Assign access, permissions and teams***
+
+
+https://i.imgur.com/70zxPrE.png
+
